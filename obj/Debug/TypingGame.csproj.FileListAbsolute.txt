@@ -1,0 +1,17 @@
+c:\users\sam\documents\visual studio 2012\Projects\TypingGame\bin\Debug\TypingGame.exe.config
+c:\users\sam\documents\visual studio 2012\Projects\TypingGame\bin\Debug\TypingGame.exe
+c:\users\sam\documents\visual studio 2012\Projects\TypingGame\bin\Debug\TypingGame.pdb
+c:\users\sam\documents\visual studio 2012\Projects\TypingGame\obj\Debug\TypingGame.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2012\Projects\TypingGame\obj\Debug\TypingGame.Form1.resources
+c:\users\sam\documents\visual studio 2012\Projects\TypingGame\obj\Debug\TypingGame.Properties.Resources.resources
+c:\users\sam\documents\visual studio 2012\Projects\TypingGame\obj\Debug\TypingGame.csproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2012\Projects\TypingGame\obj\Debug\TypingGame.exe
+c:\users\sam\documents\visual studio 2012\Projects\TypingGame\obj\Debug\TypingGame.pdb
+D:\Fall 2015 Classe\C# Stuffs\TypingGame\bin\Debug\TypingGame.exe.config
+D:\Fall 2015 Classe\C# Stuffs\TypingGame\obj\Debug\TypingGame.exe
+D:\Fall 2015 Classe\C# Stuffs\TypingGame\obj\Debug\TypingGame.pdb
+D:\Fall 2015 Classe\C# Stuffs\TypingGame\bin\Debug\TypingGame.exe
+D:\Fall 2015 Classe\C# Stuffs\TypingGame\bin\Debug\TypingGame.pdb
+D:\Fall 2015 Classe\C# Stuffs\TypingGame\obj\Debug\ResolveAssemblyReference.cache
+D:\Fall 2015 Classe\C# Stuffs\TypingGame\obj\Debug\TypingGame.Form1.resources
+D:\Fall 2015 Classe\C# Stuffs\TypingGame\obj\Debug\TypingGame.Properties.Resources.resources
